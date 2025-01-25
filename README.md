@@ -3,7 +3,7 @@
 ###
 
 <div align="center">
-  <a href="[in/алекс-стефанов-5102942a9](https://www.linkedin.com/in/%D0%B0%D0%BB%D0%B5%D0%BA%D1%81-%D1%81%D1%82%D0%B5%D1%84%D0%B0%D0%BD%D0%BE%D0%B2-5102942a9)" target="_blank">
+  <a href="https://www.linkedin.com/in/%D0%B0%D0%BB%D0%B5%D0%BA%D1%81-%D1%81%D1%82%D0%B5%D1%84%D0%B0%D0%BD%D0%BE%D0%B2-5102942a9" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
   <a href="https://www.instagram.com/_alex.stefanov/" target="_blank">
