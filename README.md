@@ -1,3 +1,7 @@
+<h1 align="center">Yo👋</h1>
+
+###
+
 <div align="center">
   <a href="in/алекс-стефанов-5102942a9" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
@@ -15,10 +19,6 @@
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=alex-stefanov.alex-stefanov&"  />
 </div>
-
-###
-
-<h1 align="center">Yo👋</h1>
 
 ###
 
