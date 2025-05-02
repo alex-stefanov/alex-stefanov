@@ -26,7 +26,7 @@
 
 ###
 
-<p align="left">I'm Alex from Kazanlak, Bulgaria<br><br>- 🔭 I’m working as .NET Dev<br>- 📚 I'm currently learning AI, C++ and DevOps<br>- ⚡ In my free time I sleep</p>
+<p align="left">I'm Alex from Kazanlak, Bulgaria<br><br>- 🔭 I’m working as .NET Dev<br>- 📚 I'm currently learning AI and C++<br>- ⚡ In my free time I sleep</p>
 
 ###
 
