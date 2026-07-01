@@ -1,74 +1,41 @@
-<h1 align="center">Yo👋</h1>
+# Hi, I'm Alex Stefanov
 
-###
+I'm a developer from Kazanlak, Bulgaria focused on .NET, full-stack web development, AI-assisted applications, and practical software projects.
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/%D0%B0%D0%BB%D0%B5%D0%BA%D1%81-%D1%81%D1%82%D0%B5%D1%84%D0%B0%D0%BD%D0%BE%D0%B2-5102942a9" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  </a>
-  <a href="https://www.instagram.com/_alex.stefanov/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
-  </a>
-  <a href="rlgalexbgto@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
-  </a>
-</div>
+## What I Build
 
-###
+- ASP.NET Core applications with Entity Framework and SQL Server
+- Full-stack products with Angular, React, Next.js, and REST APIs
+- Python AI services and computer-vision experiments
+- Educational projects around C++, algorithms, and data structures
+- Tools that connect real-world problems with clean software architecture
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=alex-stefanov.alex-stefanov&"  />
-</div>
+## Tech Stack
 
-###
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-<h3 align="left">👩‍💻  About Me</h3>
+## Featured Work
 
-###
+- **DataWise** - full-stack interview-preparation platform with an Angular client, ASP.NET API, Python AI module, SQL Server, and MongoDB.
+- **ClarifEye** - assistive-technology projects for visual recognition, accessibility workflows, and wearable guidance.
+- **LastEcho** - endangered-language visualization and outreach platform with a React globe UI and FastAPI backend.
+- **Profais** - ASP.NET Core management system for projects, workers, materials, and client requests.
+- **Portfi** - portfolio-builder platform with a Next.js client and .NET API.
 
-<p align="left">I'm Alex from Kazanlak, Bulgaria<br><br>- 🔭 I’m working as .NET Dev<br>- 📚 I'm currently learning AI and C++<br>- ⚡ In my free time I sleep</p>
+## Connect
 
-###
+[LinkedIn](https://www.linkedin.com/in/%D0%B0%D0%BB%D0%B5%D0%BA%D1%81-%D1%81%D1%82%D0%B5%D1%84%D0%B0%D0%BD%D0%BE%D0%B2-5102942a9)
 
-<h3 align="left">🛠 Language and tools</h3>
+## GitHub Stats
 
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain-wordmark.svg" height="40" alt="dot-net logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" alt="linkedin logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" alt="angularjs logo"  />
-</div>
-
-###
-
-<h3 align="left">🔥   My Stats :</h3>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alex-stefanov&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=alex-stefanov&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
-
-###
+![Alex's GitHub stats](https://github-readme-stats.vercel.app/api?username=alex-stefanov&show_icons=true&theme=dracula)
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs?username=alex-stefanov&layout=compact&theme=dracula)
